@@ -34,6 +34,7 @@ export default function App() {
             // backgroundColor: "lightgray",
             // marginVertical: 15,
             height: 1,
+
             backgroundColor: "lightgray",
             marginVertical: 12,
           }}
